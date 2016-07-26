@@ -1,0 +1,25 @@
+﻿
+.container-fluid{
+	color:gray;
+}
+.container .text-muted {
+    margin: 0px 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+body{
+  margin: 10px;
+}
+.item{
+margin:30px;
+float: right;
+padding: -5px;
+width:900px;
+hight:900px;
+
+}
+.carousel{
+margin: 30px;
+}
